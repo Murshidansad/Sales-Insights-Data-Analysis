@@ -14,3 +14,6 @@ Used MySQL and PowerBI to conduct data analysis of sales (profit &amp; revenue) 
 5.Created interactive Dashboard using PowerBI.
 
 
+# Atliq Dashboard:
+
+![Atliq Dashboard](https://user-images.githubusercontent.com/50243328/181501082-0a06fe3d-0696-4a79-92c2-d07a061dc17d.png)
